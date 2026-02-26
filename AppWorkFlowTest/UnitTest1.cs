@@ -1,4 +1,4 @@
-namespace AppWorkFlowTest
+namespace AppWorkFlow.Test
 {
     public class UnitTest1
     {
