@@ -21,7 +21,7 @@ permissions:
 env:
   DOTNET_VERSION: "8.0.x"
   # Point this to your xUnit test project (csproj). Adjust as needed. Minor change
-  TEST_PROJECT: "AppWorkFlow.Test/AppWorkFlow.Test.csproj"
+  TEST_PROJECT: "AppWorkFlowTest/AppWorkFlow.Test.csproj"
 
 jobs:
   build-and-test:
